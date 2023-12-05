@@ -9,7 +9,7 @@
       "JavaScript"
     ],
     "interest": [
-      "clean code"
+      "ux/ui"
     ]
   },
 }
